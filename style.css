@@ -17,7 +17,7 @@
 }
 
 body{
-	background-image: url('img/_bg_light.png');
+	background-image: url('img/bg_light.png');
 	font-family: 'party business', sans-serif;
 }
 @media (min-width: 768px){
@@ -212,7 +212,7 @@ h2{
 	top: -30px;
 }
 .blackbackground{
-	background-image: url('img/_bg_dark.png');
+	background-image: url('img/bg_dark.png');
 	background-size: cover;
 }
 #reward > h1{
@@ -280,7 +280,7 @@ h4{
 	text-decoration: underline;
 }
 .hate{
-	background-image: url('img/_bg_dark.png');
+	background-image: url('img/bg_dark.png');
 	width: 27%;
 	-webkit-transform:skew(345deg);
 	-moz-transform:skew(345deg);
@@ -311,7 +311,7 @@ h4{
 	color: #FFF;
 }
 .panel{
-	background-image: url('img/_bg_light.png');
+	background-image: url('img/bg_light.png');
 }
 .panel > .panel-heading{
 	font-family: 'aniron';
@@ -375,7 +375,7 @@ em{
 	height: 240px;
 }
 .more-info > p:last-child{
-	background-image: url('img/_bg_dark.png');
+	background-image: url('img/bg_dark.png');
 	-webkit-transform:skew(345deg);
 	-moz-transform:skew(345deg);
 	tranform:skew(345deg);
